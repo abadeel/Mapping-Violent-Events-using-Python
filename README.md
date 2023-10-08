@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/e1ca66d47823748cbbc4207e019304798ae7dba0e9b7513c.jpg" />
-</p>
 **Mapping Violent Events using Python: Mapping ALD's H.E.A.T. Data**
 
 ---
